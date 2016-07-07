@@ -35,7 +35,7 @@ The ```<html>``` tag is the container for all other HTML elements (except for th
 The ```<head>``` element is a container for all the head elements. All the styles, meta , title, scripts are written here.
 
 ###### article
-The HTML <article> element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable (e.g., in syndication). This could be a forum post, a magazine or newspaper article, a blog entry, an object, or any other independent item of content. Each <article> should be identified, typically by including a heading (<h1>-<h6> element) as a child of the <article> element.
+The HTML ```<article>``` element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable . This could be a forum post, a magazine or newspaper article, a blog entry, an object, or any other independent item of content. Each ```<article>``` should be identified, typically by including a heading (```<h1>-<h6>``` element) as a child of the ```<article>``` element.
 
 
 ###### aside
