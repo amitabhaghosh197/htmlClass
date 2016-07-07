@@ -52,7 +52,7 @@ Further Reading of HTML tags :
 1. https://developer.mozilla.org/en/docs/Web/HTML/Element
 2. http://www.w3schools.com/tags/default.asp
 
-###### Attributes
+### HTML Attributes
 
 Basics are:
 
